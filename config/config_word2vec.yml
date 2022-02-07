@@ -1,0 +1,6 @@
+word2vec_ita_custom :
+
+  CONTEXT_SIZE : 3
+  EMBEDDING_DIM : 10
+  SEED : 1
+  LEARNING_RATE : 0.001

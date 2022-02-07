@@ -1,0 +1,9 @@
+glove_wiki_ita_custom :
+
+  EMBEDDINGS_DIM : 50
+  N_EPOCHS : 5
+  BATCH_SIZE : 2048
+  X_MAX : 100
+  ALPHA : 0.75
+  LEARNING_RATE : 0.05
+  
